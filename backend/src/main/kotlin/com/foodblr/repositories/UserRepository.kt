@@ -1,6 +1,6 @@
-package com.foodblr.backend.data.repositories
+package com.foodblr.repositories
 
-import com.foodblr.backend.data.entities.User
+import com.foodblr.entities.User
 import org.springframework.data.jpa.repository.JpaRepository
 import java.util.Optional
 import java.util.UUID

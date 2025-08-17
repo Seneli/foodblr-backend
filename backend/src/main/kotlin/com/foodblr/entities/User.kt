@@ -1,4 +1,4 @@
-package com.foodblr.backend.data.entities
+package com.foodblr.entities
 
 import jakarta.persistence.Column
 import jakarta.persistence.Entity
