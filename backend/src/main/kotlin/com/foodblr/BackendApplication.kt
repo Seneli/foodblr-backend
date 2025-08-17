@@ -1,4 +1,4 @@
-package com.foodblr.backend
+package com.foodblr
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
